@@ -14,4 +14,6 @@ JPA
 <br>
 MySQL
 <br>
+Clean architecture
+<br>
 POO (Programação Orientada a Objetos)
