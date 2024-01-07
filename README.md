@@ -1,6 +1,6 @@
 # ClinicaIntegrada
 
-Projeto realizado por Ana Carolina Mello Moretti:
+Projeto realizado por Ana Carolina Mello Moreti:
 
 Vínculo de pacientes com profissionais da saúde.
 
