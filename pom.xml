@@ -9,10 +9,10 @@
 		<version>2.3.12.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.valdir</groupId>
-	<artifactId>helpdesk</artifactId>
+	<groupId>com.ana</groupId>
+	<artifactId>clinicaIntegrada</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>helpdesk</name>
+	<name>clinicaIntegrada</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
